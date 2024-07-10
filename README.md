@@ -8,7 +8,7 @@ O IMC é uma medida que usa a altura e o peso de uma pessoa para determinar se e
 💡 Como funciona?
 O projeto é simples de usar! Basta inserir sua altura e peso, e ele calcula automaticamente seu IMC, indicando se você está abaixo do peso, no peso ideal, acima do peso, ou obeso.
 
-🔗 Confira o projeto no GitHub: [Link para o Projeto no GitHub]
+
 
 Convido todos a darem uma olhada, utilizarem e darem feedbacks. Estou sempre em busca de melhorias e seria incrível ouvir suas opiniões!
 
